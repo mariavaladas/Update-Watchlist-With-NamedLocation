@@ -7,7 +7,7 @@
             "type": "String"
         },
         "TenantId": {
-            "de0faultValue": "",
+            "defaultValue": "",
             "type": "String"
         },
         "SubscriptionId": {
