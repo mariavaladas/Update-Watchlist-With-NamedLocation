@@ -6,7 +6,7 @@
             "defaultValue": "Update-Watchlist-With-NamedLocations",
             "type": "String"
         },
-        "Te0000nantId": {
+        "TenantId": {
             "de0faultValue": "",
             "type": "String"
         },
